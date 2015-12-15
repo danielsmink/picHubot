@@ -8,7 +8,7 @@
     "hubot",
     "campfire",
     "bot",
-		"picturae"
+    "picturae"
   ],
   "description": "A simple helpful robot for your Company",
   "licenses": [
@@ -25,6 +25,7 @@
     "htmlparser": "^1.7.7",
     "hubot": ">=2.10.0 < 3.0.0",
     "hubot-daily-comic": "0.0.1",
+    "hubot-google-images": "^0.2.6",
     "hubot-redis-brain": "0.0.2",
     "hubot-redmine": "git://github.com/mokjpn/hubot-redmine.git",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
